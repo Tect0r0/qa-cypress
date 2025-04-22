@@ -1,0 +1,10 @@
+{
+  "gato1": {
+    "name": "Michi",
+    "description": "Michi es un gato muy juguetón y cariñoso."
+  },
+  "gato2": {
+    "name": "Milaneso",
+    "description": "Milaneso es un flojo."
+  }
+}
