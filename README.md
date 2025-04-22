@@ -1,2 +1,2 @@
 # qa-workshop-cypress
-Basic project for cypress init
+Repo Gerardo Leiva para Cypress
